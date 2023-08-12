@@ -30,8 +30,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag"  : "v0.1.5b",
-                    "commit" : "6c1afd9b3b8d57b6cdf02d91b9792d27a912c16d",
+                    "tag"  : "v0.1.6",
+                    "commit" : "b95460895a93bf49539c6e54a0474336f9c56ec0",
                     "url" : "https://github.com/Nokse22/inspector"
                 }
             ]
