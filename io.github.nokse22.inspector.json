@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nokse22.inspector",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "inspector",
     "finish-args" : [
@@ -30,7 +30,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "commit" : "5e3ac67e7e193bac25dc0cfb8dca7ef982cfcc0e",
+                    "commit" : "b23a27ceb39325997858ff7860f109eb53cb4e41",
                     "url" : "https://github.com/Nokse22/inspector"
                 }
             ]
